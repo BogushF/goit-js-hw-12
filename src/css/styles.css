@@ -52,6 +52,22 @@
   background-color: #6c8cff;
 }
 
+.load-more {
+  border-radius: 8px;
+  padding: 8px 16px;
+  width: 120px;
+  height: 40px;
+  color: #ffffff;
+  background: #4e75ff;
+  border: none;
+  display: block;
+  margin: 32px auto;
+}
+
+.load-more:hover {
+  background-color: #6c8cff;
+}
+
 .form-input {
   background-color: #fff;
   font-family: 'Montserrat', sans-serif;
